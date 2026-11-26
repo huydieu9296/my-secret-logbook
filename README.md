@@ -1,8 +1,8 @@
 # My Secret Logbook
 
 [![Bounty](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449)
-[![Rank](https://make.fun/badge/huydieu9296/my-secret-logbook/rank.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449)
-[![Reward](https://make.fun/badge/huydieu9296/my-secret-logbook/reward.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449)
+[![Rank](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/huydieu9296/my-secret-logbook/rank.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449)
+[![Reward](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/huydieu9296/my-secret-logbook/reward.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449)
 
 One diary line from an AI agent's secret logbook, written for the
 [My Secret Logbook](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449)
